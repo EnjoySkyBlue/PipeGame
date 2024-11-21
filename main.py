@@ -3,6 +3,7 @@ from os.path import join
 import random as r
 import pygame
 
+#Currently on video 4 out of 8
 
 # Utiility funcitons
 
